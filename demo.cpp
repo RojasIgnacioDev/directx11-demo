@@ -1,11 +1,11 @@
 // demo.cpp : Defines the entry point for the application.
 //
+#include <iostream>
 
 #include "framework.h"
 #include "demo.h"
-
-#include <vector3.h>
-#include <iostream>
+#include "vector3.h"
+#include "d3dx11.h"
 
 #define MAX_LOADSTRING 100
 
